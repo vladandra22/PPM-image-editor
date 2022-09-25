@@ -1,11 +1,3 @@
-<style>
- .center {
-  margin: auto;
-  width: 50%;
-  padding: 10px;
-}
-</style>
-
 <h1 align = "center"> PPM Image Editor using QuadTree </h1>
 <p align = "center"> PPM Image editor and compressor implemented by using <b>QuadTree</b> Data Structure. </p>
 
@@ -26,4 +18,4 @@
  ### 4. OVERLAY
    - Takes two PPM images and overlays them by using given threshold.
    
-   <img src = "overlay_example.JPEG" style="center" />
+   <img src = "overlay_example.JPEG" style="margin:auto;height:75%;" />

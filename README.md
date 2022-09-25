@@ -18,4 +18,4 @@ PPM Image editor and compressor implemented by using **QuadTree** Data Structure
  ### 4. OVERLAY
    - Takes two PPM images and overlays them by using given threshold.
    
-   <img src = "overlay_example.JPEG" align="center" width="50%" height="50%" />
+   <img src = "overlay_example.JPEG" align="center" width="75%" height="75%" />

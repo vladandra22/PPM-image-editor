@@ -1,5 +1,5 @@
 <h1 align = "center"> PPM Image Editor using QuadTree </h1>
-PPM Image editor and compressor implemented by using **QuadTree** Data Structure. 
+<h2 align = "center"> PPM Image editor and compressor implemented by using **QuadTree** Data Structure. </h2>
 
 ## Tools
  ### 1. COMPRESS

@@ -18,4 +18,4 @@
  ### 4. OVERLAY
    - Takes two PPM images and overlays them by using given threshold.
    
-   <img src = "overlay_example.JPEG" align="center" width = "75%" height="75%" style="margin-auto" />
+   <img src = "overlay_example.JPEG" align="center" height="75%" style="margin:auto;" />

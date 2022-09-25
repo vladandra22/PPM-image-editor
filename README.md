@@ -1,4 +1,4 @@
-# PPM Image Editor
+# PPM Image Editor using QuadTree
 PPM Image editor and compressor implemented by using **QuadTree** Data Structure. 
 
 ## Tools
